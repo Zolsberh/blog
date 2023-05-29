@@ -1,0 +1,13 @@
+body{
+    background: url("Sonoma.jpg");
+    background-size: cover;
+}
+
+
+#header, .module caption{
+    background: #446600;
+}
+
+a:link, a:visited{
+    color: #00ff2f;
+}
